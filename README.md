@@ -4,6 +4,7 @@ This project is a menu-driven scientific calculator built using Python. It allow
 The program continuously prompts users to perform calculations until they choose to exit. It uses Python’s built-in math library to handle advanced mathematical operations with accuracy. The user interface is simple and text-based, making it easy to interact with.
 
 FEATURES:
+
 1)Basic Operations: Addition, subtraction, multiplication, division.
 
 2)Scientific Functions: Exponentiation, sine, cosine, tangent.
@@ -16,6 +17,7 @@ FEATURES:
 
 
 USE CASES:
+
 1)Quick mathematical calculations.
 
 2)Educational purposes for learning Python basics.
